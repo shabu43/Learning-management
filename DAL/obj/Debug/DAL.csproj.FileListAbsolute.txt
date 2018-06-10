@@ -1,0 +1,79 @@
+F:\visual studio 2015\Projects\ExamSystem\DAL\bin\Debug\DAL.dll
+F:\visual studio 2015\Projects\ExamSystem\DAL\bin\Debug\DAL.pdb
+F:\visual studio 2015\Projects\ExamSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\ExamSystem\DAL\obj\Debug\DAL.dll
+F:\visual studio 2015\Projects\ExamSystem\DAL\obj\Debug\DAL.pdb
+H:\Win 10\ExamSystem\DAL\bin\Debug\DAL.dll
+H:\Win 10\ExamSystem\DAL\bin\Debug\DAL.pdb
+H:\Win 10\ExamSystem\DAL\bin\Debug\mscorlib.dll
+H:\Win 10\ExamSystem\DAL\bin\Debug\normidna.nlp
+H:\Win 10\ExamSystem\DAL\bin\Debug\normnfc.nlp
+H:\Win 10\ExamSystem\DAL\bin\Debug\normnfd.nlp
+H:\Win 10\ExamSystem\DAL\bin\Debug\normnfkc.nlp
+H:\Win 10\ExamSystem\DAL\bin\Debug\normnfkd.nlp
+H:\Win 10\ExamSystem\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Win 10\ExamSystem\DAL\obj\Debug\DAL.dll
+H:\Win 10\ExamSystem\DAL\obj\Debug\DAL.pdb
+H:\Win 10\ExamSystem\DAL\bin\Debug\BLL.dll
+H:\Win 10\ExamSystem\DAL\bin\Debug\BLL.pdb
+H:\Win 10\ExamSystem - update 5\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Win 10\ExamSystem - update 5\DAL\obj\Debug\DAL.dll
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\DAL.dll
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\DAL.pdb
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\BLL.dll
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\mscorlib.dll
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\BLL.pdb
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\normidna.nlp
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\normnfc.nlp
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\normnfd.nlp
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\normnfkc.nlp
+H:\Win 10\ExamSystem - update 5\DAL\bin\Debug\normnfkd.nlp
+H:\Win 10\ExamSystem - update 5\DAL\obj\Debug\DAL.pdb
+H:\Win 10\Online Learning Management\DAL\bin\Debug\DAL.dll
+H:\Win 10\Online Learning Management\DAL\bin\Debug\DAL.pdb
+H:\Win 10\Online Learning Management\DAL\bin\Debug\BLL.dll
+H:\Win 10\Online Learning Management\DAL\bin\Debug\mscorlib.dll
+H:\Win 10\Online Learning Management\DAL\bin\Debug\BLL.pdb
+H:\Win 10\Online Learning Management\DAL\bin\Debug\normidna.nlp
+H:\Win 10\Online Learning Management\DAL\bin\Debug\normnfc.nlp
+H:\Win 10\Online Learning Management\DAL\bin\Debug\normnfd.nlp
+H:\Win 10\Online Learning Management\DAL\bin\Debug\normnfkc.nlp
+H:\Win 10\Online Learning Management\DAL\bin\Debug\normnfkd.nlp
+H:\Win 10\Online Learning Management\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\Win 10\Online Learning Management\DAL\obj\Debug\DAL.dll
+H:\Win 10\Online Learning Management\DAL\obj\Debug\DAL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\DAL.dll
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\DAL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\BLL.dll
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\mscorlib.dll
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\BLL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\normidna.nlp
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\normnfc.nlp
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\normnfd.nlp
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\normnfkc.nlp
+E:\shabu\LAB\adoop\Online Learning Management\DAL\bin\Debug\normnfkd.nlp
+E:\shabu\LAB\adoop\Online Learning Management\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+E:\shabu\LAB\adoop\Online Learning Management\DAL\obj\Debug\DAL.dll
+E:\shabu\LAB\adoop\Online Learning Management\DAL\obj\Debug\DAL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\DAL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\DAL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\BLL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\mscorlib.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\System.Net.Http.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\BLL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\System.Net.Http.xml
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\normidna.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\normnfc.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\normnfd.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\normnfkc.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\bin\Debug\normnfkd.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\obj\Debug\DAL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\DAL\obj\Debug\DAL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\bin\Debug\DAL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\bin\Debug\DAL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\bin\Debug\BLL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\bin\Debug\BLL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\obj\Debug\DAL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\DAL\obj\Debug\DAL.pdb

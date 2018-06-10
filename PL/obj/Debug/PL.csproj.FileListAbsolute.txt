@@ -1,0 +1,194 @@
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\csc.exe
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\System.Collections.Immutable.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\System.Reflection.Metadata.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\vbc.exe
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\VBCSCompiler.exe
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\roslyn\VBCSCompiler.exe.config
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\PL.dll.config
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\PL.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\PL.pdb
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\BLL.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\DAL.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\BLL.pdb
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\DAL.pdb
+F:\visual studio 2015\Projects\ExamSystem\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+F:\visual studio 2015\Projects\ExamSystem\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+F:\visual studio 2015\Projects\ExamSystem\PL\obj\Debug\PL.dll
+F:\visual studio 2015\Projects\ExamSystem\PL\obj\Debug\PL.pdb
+H:\Win 10\ExamSystem\PL\bin\roslyn\csc.exe
+H:\Win 10\ExamSystem\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Win 10\ExamSystem\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Win 10\ExamSystem\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Win 10\ExamSystem\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Win 10\ExamSystem\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Win 10\ExamSystem\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Win 10\ExamSystem\PL\bin\roslyn\System.Collections.Immutable.dll
+H:\Win 10\ExamSystem\PL\bin\roslyn\System.Reflection.Metadata.dll
+H:\Win 10\ExamSystem\PL\bin\roslyn\vbc.exe
+H:\Win 10\ExamSystem\PL\bin\roslyn\VBCSCompiler.exe
+H:\Win 10\ExamSystem\PL\bin\roslyn\VBCSCompiler.exe.config
+H:\Win 10\ExamSystem\PL\bin\PL.dll
+H:\Win 10\ExamSystem\PL\bin\PL.pdb
+H:\Win 10\ExamSystem\PL\bin\BLL.dll
+H:\Win 10\ExamSystem\PL\bin\DAL.dll
+H:\Win 10\ExamSystem\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Win 10\ExamSystem\PL\bin\mscorlib.dll
+H:\Win 10\ExamSystem\PL\bin\BLL.pdb
+H:\Win 10\ExamSystem\PL\bin\DAL.pdb
+H:\Win 10\ExamSystem\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Win 10\ExamSystem\PL\bin\normidna.nlp
+H:\Win 10\ExamSystem\PL\bin\normnfc.nlp
+H:\Win 10\ExamSystem\PL\bin\normnfd.nlp
+H:\Win 10\ExamSystem\PL\bin\normnfkc.nlp
+H:\Win 10\ExamSystem\PL\bin\normnfkd.nlp
+H:\Win 10\ExamSystem\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+H:\Win 10\ExamSystem\PL\obj\Debug\PL.dll
+H:\Win 10\ExamSystem\PL\obj\Debug\PL.pdb
+H:\Win 10\ExamSystem\PL\obj\Debug\RdlCompile.cache
+H:\Win 10\ExamSystem\PL\obj\Debug\RdlCompile.compiled
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\csc.exe
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\System.Collections.Immutable.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\System.Reflection.Metadata.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\vbc.exe
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\VBCSCompiler.exe
+H:\Win 10\ExamSystem - update 5\PL\bin\roslyn\VBCSCompiler.exe.config
+H:\Win 10\ExamSystem - update 5\PL\bin\PL.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\PL.pdb
+H:\Win 10\ExamSystem - update 5\PL\bin\BLL.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\DAL.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\mscorlib.dll
+H:\Win 10\ExamSystem - update 5\PL\bin\BLL.pdb
+H:\Win 10\ExamSystem - update 5\PL\bin\DAL.pdb
+H:\Win 10\ExamSystem - update 5\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Win 10\ExamSystem - update 5\PL\bin\normidna.nlp
+H:\Win 10\ExamSystem - update 5\PL\bin\normnfc.nlp
+H:\Win 10\ExamSystem - update 5\PL\bin\normnfd.nlp
+H:\Win 10\ExamSystem - update 5\PL\bin\normnfkc.nlp
+H:\Win 10\ExamSystem - update 5\PL\bin\normnfkd.nlp
+H:\Win 10\ExamSystem - update 5\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+H:\Win 10\ExamSystem - update 5\PL\obj\Debug\PL.dll
+H:\Win 10\ExamSystem - update 5\PL\obj\Debug\PL.pdb
+H:\Win 10\Online Learning Management\PL\bin\roslyn\csc.exe
+H:\Win 10\Online Learning Management\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\Win 10\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\Win 10\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\Win 10\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\Win 10\Online Learning Management\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\Win 10\Online Learning Management\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\Win 10\Online Learning Management\PL\bin\roslyn\System.Collections.Immutable.dll
+H:\Win 10\Online Learning Management\PL\bin\roslyn\System.Reflection.Metadata.dll
+H:\Win 10\Online Learning Management\PL\bin\roslyn\vbc.exe
+H:\Win 10\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe
+H:\Win 10\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe.config
+H:\Win 10\Online Learning Management\PL\bin\PL.dll
+H:\Win 10\Online Learning Management\PL\bin\PL.pdb
+H:\Win 10\Online Learning Management\PL\bin\BLL.dll
+H:\Win 10\Online Learning Management\PL\bin\DAL.dll
+H:\Win 10\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\Win 10\Online Learning Management\PL\bin\mscorlib.dll
+H:\Win 10\Online Learning Management\PL\bin\BLL.pdb
+H:\Win 10\Online Learning Management\PL\bin\DAL.pdb
+H:\Win 10\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\Win 10\Online Learning Management\PL\bin\normidna.nlp
+H:\Win 10\Online Learning Management\PL\bin\normnfc.nlp
+H:\Win 10\Online Learning Management\PL\bin\normnfd.nlp
+H:\Win 10\Online Learning Management\PL\bin\normnfkc.nlp
+H:\Win 10\Online Learning Management\PL\bin\normnfkd.nlp
+H:\Win 10\Online Learning Management\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+H:\Win 10\Online Learning Management\PL\obj\Debug\PL.dll
+H:\Win 10\Online Learning Management\PL\obj\Debug\PL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\csc.exe
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\System.Collections.Immutable.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\System.Reflection.Metadata.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\vbc.exe
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe.config
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\PL.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\PL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\BLL.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\DAL.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\mscorlib.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\BLL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\DAL.pdb
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\normidna.nlp
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\normnfc.nlp
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\normnfd.nlp
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\normnfkc.nlp
+E:\shabu\LAB\adoop\Online Learning Management\PL\bin\normnfkd.nlp
+E:\shabu\LAB\adoop\Online Learning Management\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+E:\shabu\LAB\adoop\Online Learning Management\PL\obj\Debug\PL.dll
+E:\shabu\LAB\adoop\Online Learning Management\PL\obj\Debug\PL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\csc.exe
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\vbc.exe
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\PL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\PL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\BLL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\DAL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\mscorlib.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\BLL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\DAL.pdb
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\normidna.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\normnfc.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\normnfd.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\normnfkc.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\bin\normnfkd.nlp
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\obj\Debug\PL.dll
+C:\Users\mushfique0\Downloads\Online Learning Management\PL\obj\Debug\PL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\csc.exe
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\Microsoft.CSharp.Core.targets
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\Microsoft.VisualBasic.Core.targets
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\System.Collections.Immutable.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\System.Reflection.Metadata.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\vbc.exe
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\roslyn\VBCSCompiler.exe.config
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\PL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\PL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\BLL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\DAL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\BLL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\DAL.pdb
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\obj\Debug\PL.csprojResolveAssemblyReference.cache
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\obj\Debug\PL.dll
+H:\shabu\LAB\Advnce oop\Final submitted project\Online Learning Management\PL\obj\Debug\PL.pdb
